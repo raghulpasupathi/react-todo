@@ -1,3 +1,12 @@
+# React Todo Web App
+
+Things that are used to create the app:
+- useEffect and useState 
+- Props
+- Local storage to acess todo item
+
+Credits: To get better understanding of the code follow [DevEd](https://www.youtube.com/watch?v=pCA4qpQDZD8)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
